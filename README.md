@@ -21,7 +21,7 @@ Explored a large content dataset to examine trends in genres, release patterns, 
 
 ## Internship Experience
 
-**Business Analyst Intern – Real Estate Firm (Delhi)**
+**Business Analyst Intern – Ashtvinayak Colonisers And Contractors Pvt Ltd**
 September 2024 – February 2025
 
 During this internship, I worked on analyzing business and operational data to support internal decision making. My responsibilities included examining datasets, preparing reports, and helping identify trends related to customer activity and operational performance. The role helped me understand how data analysis supports real business processes and strategic decisions.
@@ -30,8 +30,8 @@ During this internship, I worked on analyzing business and operational data to s
 
 ## Tools and Technologies
 
-* **Programming:** Python, SQL, R (basic familiarity)
-* **Data Analysis:** Excel, Pandas, NumPy
+* **Programming:** Python, SQL, R (basic familiarity), Unix
+* **Data Analysis:** Excel, Pandas, NumPy, VLOOKUP, Tableau
 * **Visualization:** Matplotlib, Seaborn
 * **Other Tools:** Jupyter Notebook, Git, GitHub
 
